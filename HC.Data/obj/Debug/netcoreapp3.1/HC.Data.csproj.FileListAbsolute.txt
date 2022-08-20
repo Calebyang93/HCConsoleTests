@@ -1,0 +1,14 @@
+C:\Users\lenovo\source\repos\HC\HC.Data\bin\Debug\netcoreapp3.1\HC.Data.deps.json
+C:\Users\lenovo\source\repos\HC\HC.Data\bin\Debug\netcoreapp3.1\HC.Data.dll
+C:\Users\lenovo\source\repos\HC\HC.Data\bin\Debug\netcoreapp3.1\HC.Data.pdb
+C:\Users\lenovo\source\repos\HC\HC.Data\bin\Debug\netcoreapp3.1\HC.Model.dll
+C:\Users\lenovo\source\repos\HC\HC.Data\bin\Debug\netcoreapp3.1\HC.Model.pdb
+C:\Users\lenovo\source\repos\HC\HC.Data\obj\Debug\netcoreapp3.1\HC.Data.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\HC\HC.Data\obj\Debug\netcoreapp3.1\HC.Data.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\HC\HC.Data\obj\Debug\netcoreapp3.1\HC.Data.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\HC\HC.Data\obj\Debug\netcoreapp3.1\HC.Data.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\HC\HC.Data\obj\Debug\netcoreapp3.1\HC.Data.csproj.CopyComplete
+C:\Users\lenovo\source\repos\HC\HC.Data\obj\Debug\netcoreapp3.1\HC.Data.dll
+C:\Users\lenovo\source\repos\HC\HC.Data\obj\Debug\netcoreapp3.1\HC.Data.pdb
+C:\Users\lenovo\source\repos\HC\HC.Data\bin\Debug\netcoreapp3.1\HC.Utils.dll
+C:\Users\lenovo\source\repos\HC\HC.Data\bin\Debug\netcoreapp3.1\HC.Utils.pdb

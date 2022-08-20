@@ -1,0 +1,9 @@
+C:\Users\lenovo\source\repos\HC\HC.Utils\bin\Debug\netcoreapp3.1\HC.Utils.deps.json
+C:\Users\lenovo\source\repos\HC\HC.Utils\bin\Debug\netcoreapp3.1\HC.Utils.dll
+C:\Users\lenovo\source\repos\HC\HC.Utils\bin\Debug\netcoreapp3.1\HC.Utils.pdb
+C:\Users\lenovo\source\repos\HC\HC.Utils\obj\Debug\netcoreapp3.1\HC.Utils.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\HC\HC.Utils\obj\Debug\netcoreapp3.1\HC.Utils.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\HC\HC.Utils\obj\Debug\netcoreapp3.1\HC.Utils.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\HC\HC.Utils\obj\Debug\netcoreapp3.1\HC.Utils.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\HC\HC.Utils\obj\Debug\netcoreapp3.1\HC.Utils.dll
+C:\Users\lenovo\source\repos\HC\HC.Utils\obj\Debug\netcoreapp3.1\HC.Utils.pdb

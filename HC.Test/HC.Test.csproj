@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HC.Data\HC.Data.csproj" />
+    <ProjectReference Include="..\HC.Utils\HC.Utils.csproj" />
+  </ItemGroup>
+
+</Project>
